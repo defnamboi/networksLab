@@ -1,0 +1,3 @@
+mininet==2.3.0.dev6
+setuptools==82.0.1
+termcolor==3.3.0
